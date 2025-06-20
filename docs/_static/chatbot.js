@@ -5,4 +5,4 @@ document.addEventListener("DOMContentLoaded", function () {
     document.body.appendChild(ze);
 });
 
-html_favicon = '_static/download.png'
+html_favicon = '_static/acorn-favicon.jpg'
